@@ -15,7 +15,7 @@ dependencies:
   # This is our modular for git
   network:
     git:
-      url: https://github.com/rrifafauzikomara/network_module.git
+      url: https://github.com/rVizzini/network_module.git
 
 dev_dependencies:
   flutter_test:
